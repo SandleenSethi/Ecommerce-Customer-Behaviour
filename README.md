@@ -93,4 +93,18 @@ This project presents a detailed analysis of customer behavior, purchasing trend
 
 5. **Boost Purchase Frequency**  
    Consider subscription models or bundled offers, particularly for books and clothing.
+   
+---
+
+## Contact
+
+**Sandleen Sethi**  
+Email: sandleensethi09@gmail.com  
+LinkedIn:(https://www.linkedin.com/in/sandleen-sethi-776998335/)  
+
+
+---
+
+*Note: This project is for educational and portfolio demonstration purposes only.*
+
 
